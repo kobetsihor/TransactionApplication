@@ -3,3 +3,10 @@
 ################################################################################
 
 /TransactionApplication.API/bin/Debug/netcoreapp3.1
+/TransactionApplication.DAL/obj
+/TransactionApplication.DAL/bin/Debug/netcoreapp3.1
+/TransactionApplication.BL/obj
+/TransactionApplication.BL/bin/Debug/netcoreapp3.1
+/TransactionApplication.API/obj
+/TransactionApplication.Tests/bin/Debug/netcoreapp3.1
+/TransactionApplication.Tests/obj
